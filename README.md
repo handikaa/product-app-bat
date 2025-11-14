@@ -40,5 +40,10 @@ Fitur :
 
 
 # UI preview
+<img width="1080" height="2340" alt="Screenshot_1763117170" src="https://github.com/user-attachments/assets/30784f9e-e2c4-4f3d-a080-11570e5dba59" />
+<img width="1080" height="2340" alt="Screenshot_1763117175" src="https://github.com/user-attachments/assets/7259dc82-8ef5-4c39-97dd-bca07f5592cf" />
+<img width="1080" height="2340" alt="Screenshot_1763117178" src="https://github.com/user-attachments/assets/1c921e4a-0a5d-4434-9fe5-4085780221c2" />
+
+
 
 
