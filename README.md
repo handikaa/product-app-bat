@@ -13,6 +13,7 @@ Fitur :
 2. Cari produk
 3. Lihat halaman detail produk
 4. Keranjang (tambah, hapus, edit)
+5. cara hapus produk di keranjang dengan swipe produk ke kiri (seperti pada UI preview)
 
 ## Package used 
   cupertino_icons: ^1.0.8
@@ -43,6 +44,7 @@ Fitur :
 <img width="1080" height="2340" alt="Screenshot_1763117170" src="https://github.com/user-attachments/assets/30784f9e-e2c4-4f3d-a080-11570e5dba59" />
 <img width="1080" height="2340" alt="Screenshot_1763117175" src="https://github.com/user-attachments/assets/7259dc82-8ef5-4c39-97dd-bca07f5592cf" />
 <img width="1080" height="2340" alt="Screenshot_1763117178" src="https://github.com/user-attachments/assets/1c921e4a-0a5d-4434-9fe5-4085780221c2" />
+<img width="1080" height="2340" alt="Screenshot_1763117583" src="https://github.com/user-attachments/assets/15fc09a3-520a-4e40-a6f6-4edf911fc7e8" />
 
 
 
